@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7832
     wikipedia: http://en.wikipedia.org/wiki/Gustav_Kobbe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18138#The-Loves-of-Great-Composers
 gutenberg_issued: '2006-04-10'
 gutenberg_type: Text
 identifiers:
