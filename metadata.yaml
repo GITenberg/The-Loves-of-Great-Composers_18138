@@ -1,0 +1,34 @@
+_repo: The-Loves-of-Great-Composers_18138
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kobbé, Gustav
+    alias: Kobbe, Gustav
+    birthdate: 1857
+    deathdate: 1918
+    gutenberg_agent_id: '7832'
+    url: http://www.gutenberg.org/2009/agents/7832
+    wikipedia: http://en.wikipedia.org/wiki/Gustav_Kobbe
+description: ''
+gutenberg_issued: '2006-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18138'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Beethoven, Ludwig van, 1770-1827'
+- !lcsh 'Mendelssohn-Bartholdy, Felix, 1809-1847'
+- !lcsh 'Wagner, Richard, 1813-1883'
+- !lcc 'ML'
+- !lcsh 'Mozart, Wolfgang Amadeus, 1756-1791'
+- !lcsh 'Chopin, Frédéric, 1810-1849'
+- !lcsh 'Schumann, Robert, 1810-1856'
+- !lcsh 'Liszt, Franz, 1811-1886'
+title: The Loves of Great Composers
+url: http://www.gutenberg.org/ebooks/18138
